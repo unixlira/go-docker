@@ -12,6 +12,7 @@ docker run unixlira/fullcycle
 Não há necessidade de configurar nada adicionalmente; ao executar o comando acima, você verá a mensagem "Frase" impressa diretamente no seu terminal.
 
 Por que Usar Esta Imagem?
+
 Leveza: Com menos de 2MB, esta imagem é ideal para qualquer pipeline CI/CD, oferecendo velocidades rápidas de download e implantação.
 Simplicidade: Sem dependências externas, esta imagem serve como um excelente exemplo de como containerizar aplicações Go de maneira eficiente.
 Versatilidade: Aprenda os fundamentos do Docker e da linguagem Go com um exemplo prático e direto.
