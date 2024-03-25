@@ -1,7 +1,5 @@
 
-Criar um overview eficaz para o Docker Hub ajuda outros usuários a entenderem rapidamente o propósito da sua imagem Docker e como utilizá-la. Abaixo está um exemplo de overview que você pode usar para a imagem unixlira/fullcycle, ajustando conforme necessário para se adequar ao seu projeto específico:
-
-Full Cycle Rocks! com Go e Docker
+Go e Docker
 Esta imagem Docker executa uma aplicação simples em Go que imprime a mensagem "Frase" ao ser executada. Projetada para ser extremamente leve, a imagem final é menor que 2MB, demonstrando a eficácia de imagens Docker minimalistas construídas a partir do zero.
 
 Como Usar Esta Imagem
